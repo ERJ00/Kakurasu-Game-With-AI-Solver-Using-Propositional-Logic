@@ -2,6 +2,8 @@
 
 This is my project for our AI subject, showcasing the use of depth-first search and breadth-first search to solve a dynamic grid-based puzzle. A Python-based puzzle game built using Pygame, where players solve a grid by strategically placing black cells. The goal is to match the sums of rows and columns with the provided clues, ensuring each solution is logical and unique.
 
+<img src="UI/image 1.png" height="500">
+
 ## Features
 - **Dynamic Puzzle Generation**: Grids of varying sizes (adjustable by the user) are created with randomized black cell arrangements and predefined clues.
 - **Interactive Gameplay**: Toggle cells between black (`B`), cross (`X`), or empty states to solve the puzzle.
